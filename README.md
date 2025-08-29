@@ -1,2 +1,2 @@
-# projeto3-sistema-de-verificacao-de-acesso-com-multiplas-condicoes
+# projeto3-sistema-de-verificação-de-acesso-com-múltiplas-condições
 projeto 3 logica de programação
