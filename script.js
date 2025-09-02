@@ -1,4 +1,4 @@
-const nome = prompt("digtite seu nome completo:")
+const nome = prompt("digtite seu nome completo:").toLowerCase()
 let idade= parseInt(prompt("digite sua idade"))
 if(idade >= 18){
     alert(`Olá ${nome}! você tem acesso completo. Boas-vindas à plataforma!`)
